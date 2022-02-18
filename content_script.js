@@ -1,2 +1,1 @@
-// Put all the javascript code here, that you want to execute after page load.
-browser.alarms.create()
+// JavaScript to execute after page load

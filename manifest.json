@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Amplitab",
-  "description": "Visualize the sounds your tabs are emitting!",
+  "name": "amplitab",
+  "description": "Firefox extension that makes it easier to identify tabs playing audio",
   "version": "0.0.1",
   "icons": {
     "64": "icons/icon.png"
